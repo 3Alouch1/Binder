@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1066464075246",
+    "firebase_url": "https://binder-7a7ff.firebaseio.com",
+    "project_id": "binder-7a7ff",
+    "storage_bucket": "binder-7a7ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066464075246:android:c579afad884f29362d82ff",
+        "android_client_info": {
+          "package_name": "com.dinosoftlabs.binder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066464075246-58tdo72gmlhf6dpp7m4b2886jgms6eld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRPQAIEZRvVqpUNKTNACEkRybXV9OZWso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066464075246-58tdo72gmlhf6dpp7m4b2886jgms6eld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
